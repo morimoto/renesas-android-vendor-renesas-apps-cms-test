@@ -1,0 +1,7 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:ThemeOverlay.Material.Dark">
+        <item name="android:windowBackground">@drawable/bg_prism</item>
+    </style>
+
+</resources>
